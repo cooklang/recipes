@@ -16,7 +16,6 @@ We have a few guidelines for creating recipes for the community repository:
 
 * Do not use images in your recipe.
 * Fill out all relevant metadata for your recipe (especially time, author, and servings).
-* Always use title case for your file names (e.g. "7 Alarm Chilli.cook" or "Mama's Famous 4-Layer Ice Cream Cake.cook").
 
 ## How to contribute
 
